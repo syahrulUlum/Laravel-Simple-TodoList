@@ -13,8 +13,8 @@
 3. Rename **.env.example** to **.env**
 4. Edit **.env** database name, password, host, username, according to what you have
 5. Open terminal and navigate to this app directory
-6. run ` php artisan key:generate` <br/>
+6. Run ` php artisan key:generate` <br/>
    <span style="color: red">If Error, run `composer dump-autoload` and `composer install` </span>
-7. run `php artisan migrate`
-8. run `php artisan serve`
-9. enjoy :)
+7. Run `php artisan migrate`
+8. Run `php artisan serve`
+9. Enjoy :)
